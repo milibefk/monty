@@ -1,0 +1,1 @@
+This is an introductory project that explains what LIFO and FIFO mean What a stack is, and when to use it what a queue is, and when to use it What are the common implementations of stacks and queues what are the most common use cases of stacks and queues, what is the proper way to use global variables, and how to work with git submodules.
